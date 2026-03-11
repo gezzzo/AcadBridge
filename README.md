@@ -5,7 +5,7 @@ The project provides separate interfaces for **students**, **supervisors**, and 
 
 ## Overview
 
-System1 is designed to simplify communication between students and academic supervisors, while also supporting common academic service workflows such as:
+AcadBridge is designed to simplify communication between students and academic supervisors, while also supporting common academic service workflows such as:
 
 - Student registration and login
 - Supervisor login
@@ -43,7 +43,7 @@ System1 is designed to simplify communication between students and academic supe
 ## Project Structure
 
 ```bash
-system1/
+AcadBridge/
 ├── admin/                  # Admin dashboard
 ├── assets/                 # CSS, JS, images
 ├── dashboard/              # Dashboard-related files
